@@ -7,7 +7,7 @@ Qiita/Qiitadon ユーザであれば、どなたでも作成・追加・編集�
 ## フィード一覧
 
 | タグ<br>（ABC順） | 概要 | プレビュー |　URL
-| :--: | :-- | :--: | :-- |
+| :--: | :-- | :--: | :--: |
 | Organization | [Qiitadonユーザ会](https://qiita.com/organizations/qiitadon)メンバーのフィード | [プレビュー](https://github.com/Qithub-BOT/qithub-bot.github.com/blob/main/organization.atom) | [![Link](https://img.shields.io/badge/-Link-orange.svg)](https://qithub-bot.github.io/organization.atom) |
 
 ## Contribution
