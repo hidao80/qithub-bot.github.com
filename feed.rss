@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0'>
+<channel>
+<title>hidao80's News Feed</title>
+<link>https://hidao80.github.io/githubfeed/feed.rss</link>
+<description>ひだおのきまぐれニュースまとめ</description>
+<lastBuildDate>2021/1/1 13:01:13</lastBuildDate>
+<category>News Feed</category>
+<generator>RssFeedGen</generator>
+<item>
+<pubDate>2021/1/1 13:17:13</pubDate>
+<title>fetch API でも POST したい！ - Qiita</title>
+<link>https://qiita.com/legokichi/items/801e88462eb5c84af97d</link>
+<description>fetch API でも POST したい！
+
+ちなみに fetch API は WHATWG HTML Living Standard で定義されていて、W3C HTML 5.1 でもなければ ECMAScript2017 でも...</description>
+</item>
+<item>
+<title>おせちメニュー　お雑煮 by uminoie</title>
+<link>https://cookpad.com/recipe/477754</link>
+<description>簡単なので1/1の朝に作っても大丈夫。もちろん12/31に作っておいても◎。</description>
+</item>
+</channel>
+</rss>
