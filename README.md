@@ -1,14 +1,12 @@
-## カスタム Qiita 記事フィード集
+## hidao80 おすすめフィード集
 
-このリポジトリは [Qiita](https://qiita.com/)/[Qiitadon](https://qiitadon.com/) ユーザーの[キュレーション](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC#%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC)により作成された RSS/Atom フィードをタグ別に掲載しています。
-
-Qiita/Qiitadon ユーザであれば、どなたでも作成・追加・編集の [PR](https://www.google.com/search?q=site:qiita.com+PR%E3%81%A8%E3%81%AF+Pull+Request) が可能です。
+このリポジトリは hidao80（ひだお@Qiitadon.com）の[キュレーション](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC#%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC)により作成された RSS/Atom フィードをタグ別に掲載しています。
 
 ## フィード一覧
 
-| タグ<br>（ABC順） | 概要 | プレビュー | URL
-| :--: | :-- | :--: | :--: |
-| Organization | [Qiitadonユーザ会](https://qiita.com/organizations/qiitadon)メンバーのフィード | [プレビュー](https://github.com/Qithub-BOT/qithub-bot.github.com/blob/main/organization.atom) | [![](https://qithub-bot.github.io/feed.png)](https://qithub-bot.github.io/organization.atom "Link to RSS/Atom") |
+タグ<br>（ABC順） | 概要 | プレビュー | URL
+:--: | :-- | :--: | :--: |
+sample | サンプル | [プレビュー](https://github.com/hidao80/RssFeed/feed.rss) | [![](./feed.png)](https://github.com/hidao80/RssFeed/feed.rss "Link to RSS/Atom") |
 
 ## Contribution
 
